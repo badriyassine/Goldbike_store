@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Varela+Round&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  position: relative;
+  background-color: white;
+}
+
+/* header */
+header {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-bottom: 5px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+}
+
+header .logo img {
+  width: 200px;
+  margin: 10px 80px 0 100px;
+}
+
+.left-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav {
+  padding: 5px 0 0 0;
+  align-items: center;
+}
+
+.nav a {
+  font-size: medium;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  margin-right: 40px;
+  transition: 0.3s;
+}
+
+.nav a:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.nav .home {
+  color: red;
+}
+
+.right-header {
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  padding-right: 100px;
+  padding-top: 5px;
+}
+.right-header a {
+  color: white;
+}
+.fa-magnifying-glass {
+  margin-right: 20px;
+}
+.fa-circle-half-stroke {
+  margin-right: 20px;
+}
+.fa-solid {
+  transition: 0.3s;
+}
+
+.fa-solid:hover {
+  color: red;
+  cursor: pointer;
+  transform: scale(1.4);
+}
+
+/* section */
+section {
+  position: absolute;
+  top: 6%;
+  left: 5.5%;
+}
+
+.section-text h2 {
+  color: white;
+  font-size: 60px;
+  text-shadow: 0 0 5px white;
+}
+
+.section-text p {
+  color: white;
+  font-size: 45px;
+  text-shadow: 0 0 5px white;
+}
+
+/* section-btn */
+.section-btn {
+  margin: 40px 0 0 0;
+}
+
+.section-btn button {
+  padding: 15px 44px;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.section-btn button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.descover-btn {
+  background-color: white;
+  border: 2px solid white;
+  color: black;
+}
+
+.order-btn {
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  text-shadow: 0 0 5px white;
+}
+
+/* article */
+article {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-top: 5%;
+  align-items: center;
+}
+
+.picture {
+  margin-bottom: 60px;
+}
+
+.picture img {
+  width: 700px;
+  transition: 0.3s;
+}
+.picture img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.desc-title h2 {
+  font-size: 50px;
+  color: rgba(0, 0, 0, 0.601);
+  margin: 30px 0 50px 0;
+}
+
+.desc-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: start;
+  margin-left: 50px;
+}
+
+.desc-text h4 {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.desc-text p {
+  line-height: 2rem;
+}
+.desc-2 {
+  margin-left: 50px;
+}
+
+/* article-2 */
+
+.article-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.article-title h2 {
+  font-size: 50px;
+  color: rgba(0, 0, 0, 0.601);
+}
+
+.brands {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  align-items: center;
+  padding-top: 80px;
+}
+
+.brands img {
+  width: 150px;
+  transition: 0.3s;
+}
+
+.brands img:hover {
+  transform: scale(1.2);
+}
+
+/* footer */
+footer {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px 30px;
+
+  width: 100%;
+  margin-top: 7%;
+  border-top: 2px solid red;
+}
+
+.bottom-footer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.bottom-footer a {
+  color: black;
+  text-decoration: none;
+  font-size: small;
+  margin-right: 25px;
+  transition: 0.3s;
+}
+
+.bottom-footer a:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.top-footer {
+  text-align: center;
+  font-size: large;
+}
+
+.top-footer a {
+  text-decoration: none;
+  color: black;
+}
+
+.top-footer a:hover {
+  text-decoration: none;
+  color: red;
+  cursor: pointer;
+}
