@@ -6,6 +6,8 @@ It is a **static, design-only layout** created to help me improve my front-end d
 The focus was on crafting a clean, visually appealing user interface without any interactivity or JavaScript.  
 Through this project, I practiced structuring HTML elements effectively and styling them with responsive, modern CSS to ensure the layout looks great across various screen sizes.
 
+---
+
 ## 🌟 Features
 
 - Static design-only project
@@ -13,6 +15,8 @@ Through this project, I practiced structuring HTML elements effectively and styl
 - Fully responsive using CSS media queries
 - Clean and semantic HTML5 structure
 - No frameworks or JavaScript used
+
+---
 
 ## 📁 Project Structure
 
@@ -32,6 +36,7 @@ Goldbike_store/
 ├── styles/
 └── videos/  
 ```
+---
 
 ## 📷 Screenshots
 
@@ -40,6 +45,8 @@ Goldbike_store/
 ![Main View](/assets/screenshots/Capture%20d’écran%202025-07-13%20034956.png)
 
 ![footer](/assets/screenshots/Capture%20d’écran%202025-07-13%20035015.png)
+
+---
 
 ## 🚀 Getting Started
 
@@ -57,13 +64,19 @@ cd Goldbike_store
 
 3. Launch `index.html` in your browser.
 
+---
+
 ## 📌 Notes
 
 This project is intended as a **UI/UX design practice** and is not connected to any backend or interactive logic.
 
+---
+
 ## 👤 Author
 
 Made by [**ERROR**](https://github.com/BD-YASSINE)
+
+---
 
 ## 📃 License
 
