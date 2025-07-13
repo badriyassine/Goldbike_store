@@ -8,8 +8,10 @@ Through this project, I practiced structuring HTML elements effectively and styl
 
 ## 📷 Screenshots
 
-![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png)  
+![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
+
 ![Main View](/assets/screenshots/Capture%20d’écran%202025-07-13%20034956.png)
+
 ![footer](/assets/screenshots/Capture%20d’écran%202025-07-13%20035015.png)
 
 ## 📁 Project Structure
