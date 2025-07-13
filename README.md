@@ -17,7 +17,7 @@ Through this project, I practiced structuring HTML elements effectively and styl
 ## 📁 Project Structure
 
 ```
-motorcycle-landing/
+Goldbike_store/
 │
 ├── index.html
 ├── README.md
@@ -47,12 +47,12 @@ To view the project:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BD-YASSINE/store-html-css.git
+git clone https://github.com/BD-YASSINE/Goldbike_store.git
 ```
 
 2. Open the folder:
 ```bash
-cd store-html-css
+cd Goldbike_store
 ```
 
 3. Launch `index.html` in your browser.
