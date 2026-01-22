@@ -1,4 +1,4 @@
-# 🏍️ Motorcycle Store Landing Page
+# Motorcycle Store Landing Page
 
 This project is a **modern** and **minimalist** landing page concept for a motorcycle store, built entirely with **HTML** and **CSS**.  
 It is a **static, design-only layout** created to help me improve my front-end design skills.
@@ -28,7 +28,7 @@ To view the project:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BD-YASSINE/Goldbike_store.git
+git clone https://github.com/badriyassine/Goldbike_store.git
 ```
 
 2. Open the folder:
@@ -40,17 +40,10 @@ cd Goldbike_store
 
 ---
 
-## 📌 Notes
-
-This project is intended as a **UI/UX design practice** and is not connected to any backend or interactive logic.
-
----
-
 ## 👤 Author
 
 Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
----
 
 ## 📃 License
 
