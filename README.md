@@ -4,6 +4,13 @@ This project is a **modern** and **minimalist** landing page concept for a motor
 It is a **static, design-only layout** created to help me improve my front-end design skills.
 
 ---
+## 📷 Screenshots
+
+![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
+
+![Main View](/assets/screenshots/Capture%20d’écran%202025-07-13%20034956.png)
+
+---
 
 ## 🌟 Features
 
@@ -11,14 +18,6 @@ It is a **static, design-only layout** created to help me improve my front-end d
 - Modern and minimalist layout
 - Clean and semantic HTML5 structure
 - No frameworks or JavaScript used
-
----
-
-## 📷 Screenshots
-
-![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
-
-![Main View](/assets/screenshots/Capture%20d’écran%202025-07-13%20034956.png)
 
 ---
 
@@ -33,18 +32,19 @@ git clone https://github.com/badriyassine/Goldbike_store.git
 
 2. Open the folder:
 ```bash
-cd Goldbike_store
+Launch `index.html` in your browser.
 ```
+---
 
-3. Launch `index.html` in your browser.
+## ⚙️ Technologies Used
 
+- HTML5
+- CSS3  
+  
 ---
 
 ## 👤 Author
 
 Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
-
-## 📃 License
-
-This project is open-source and free to use for personal or educational purposes.
+---
