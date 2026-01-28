@@ -7,7 +7,7 @@ It is a **static, design-only layout** created to help me improve my front-end d
 
 ## 🌐 Live Demo
 
-👉 [See the website live](https://badriyassine.github.io/Dashboard_design/)
+👉 [See the website live](https://badriyassine.github.io/Goldbike_store/)
 
 ---
 
