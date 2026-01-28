@@ -15,8 +15,6 @@ It is a **static, design-only layout** created to help me improve my front-end d
 
 ![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
 
-![Main View](/assets/screenshots/Capture%20d’écran%202025-07-13%20034956.png)
-
 ---
 
 ## 🌟 Features
