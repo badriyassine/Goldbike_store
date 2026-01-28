@@ -4,6 +4,13 @@ This project is a **modern** and **minimalist** landing page concept for a motor
 It is a **static, design-only layout** created to help me improve my front-end design skills.
 
 ---
+
+## 🌐 Live Demo
+
+👉 [See the website live](https://badriyassine.github.io/Dashboard_design/)
+
+---
+
 ## 📷 Screenshots
 
 ![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
