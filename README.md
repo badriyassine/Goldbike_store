@@ -5,19 +5,31 @@ It is a **static, design-only layout** created to help me improve my front-end d
 
 ---
 
-## 🌐 Live Demo
+## Table of Contents
 
-👉 [See the website live](https://badriyassine.github.io/Goldbike_store/)
+- [Live Demo](#live-demo)
+- [Preview image](#screenshot)
+- [Features](#features)
+- [Installation](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Author](#Author)
+
 
 ---
 
-## 📷 Screenshots
+## Live Demo
+
+[See the website live](https://badriyassine.github.io/Goldbike_store/)
+
+---
+
+## Screenshot
 
 ![Homepage Screenshot](/assets/screenshots/Capture%20d’écran%202025-07-13%20034934.png) 
 
 ---
 
-## 🌟 Features
+## Features
 
 - Static design-only project
 - Modern and minimalist layout
@@ -26,7 +38,7 @@ It is a **static, design-only layout** created to help me improve my front-end d
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the project:
 
@@ -41,14 +53,14 @@ Launch `index.html` in your browser.
 ```
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3  
   
 ---
 
-## 👤 Author
+## Author
 
 Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
